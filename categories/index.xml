@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on 型錄</title>
+    <link>http://example.org/categories/</link>
+    <description>Recent content in Categories on 型錄</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>動畫</title>
+      <link>http://example.org/categories/%E5%8B%95%E7%95%AB/</link>
+      <pubDate>Thu, 29 Mar 2018 12:59:17 +0000</pubDate>
+      
+      <guid>http://example.org/categories/%E5%8B%95%E7%95%AB/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>漫畫</title>
+      <link>http://example.org/categories/%E6%BC%AB%E7%95%AB/</link>
+      <pubDate>Thu, 29 Mar 2018 13:04:33 +0000</pubDate>
+      
+      <guid>http://example.org/categories/%E6%BC%AB%E7%95%AB/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>番號片</title>
+      <link>http://example.org/categories/%E7%95%AA%E8%99%9F%E7%89%87/</link>
+      <pubDate>Thu, 29 Mar 2018 12:59:37 +0000</pubDate>
+      
+      <guid>http://example.org/categories/%E7%95%AA%E8%99%9F%E7%89%87/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
